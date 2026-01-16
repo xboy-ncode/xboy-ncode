@@ -45,14 +45,6 @@
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
 ---
 
-### 📊 GitHub Activity & Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xboy-ncode&show_icons=true&theme=vision-friendly-dark&hide_border=true&count_private=true" alt="Joel's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xboy-ncode&theme=vision-friendly-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
 
 ---
 
